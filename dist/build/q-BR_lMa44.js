@@ -1,0 +1,1 @@
+import{r as t,k as e,_ as a}from"./q-BfBl-PNg.js";const s=t(e(()=>a(()=>import("./q-4VCnMh9V.js"),[]),"s_dT0sDkUStYI")),i={title:"About - Chetan Vaghela",meta:[{name:"description",content:"Profession detail of Chetan Vaghela"}]};export{s as default,i as head};

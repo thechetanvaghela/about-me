@@ -1,1 +1,0 @@
-import{r as e,k as o,_ as t}from"./q-BfBl-PNg.js";const i=e(o(()=>t(()=>import("./q-DCDlflPc.js"),[]),"s_7cRGzx0I4TU")),a={title:"Portfolio - Chetan Vaghela",meta:[{name:"description",content:"Explore my portfolio of developed projects. Dive into my work to see the projects I've brought to life."}]};export{i as default,a as head};

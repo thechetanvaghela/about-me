@@ -1,1 +1,0 @@
-import{r as e,k as t,_ as a}from"./q-BfBl-PNg.js";const o=e(t(()=>a(()=>import("./q-VUIlhwC9.js"),[]),"s_1zJAPkiojEY")),r={title:"Services - Chetan Vaghela",meta:[{name:"description",content:"Services provided by Chetan Vaghela"}]};export{o as default,r as head};

@@ -25,7 +25,7 @@ export default component$(() => {
           <div class="row portfolio-container">
 
             
-          <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
+          <div class="col-lg-3 col-md-4 portfolio-item filter-plugin">
               <div class="portfolio-wrap">
                 <img src="/img/portfolio/categories-status.png" class="img-fluid" alt="" />
                 <div class="portfolio-info">
@@ -37,7 +37,7 @@ export default component$(() => {
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
+            <div class="col-lg-3 col-md-4 portfolio-item filter-plugin">
               <div class="portfolio-wrap">
                 <img src="/img/portfolio/cf7-visited-pages-url-tracking.jpg" class="img-fluid" alt="" />
                 <div class="portfolio-info">
@@ -49,7 +49,7 @@ export default component$(() => {
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
+            <div class="col-lg-3 col-md-4 portfolio-item filter-plugin">
               <div class="portfolio-wrap">
                 <img src="/img/portfolio/comment-form-validation-and-customization.jpg" class="img-fluid" alt="" />
                 <div class="portfolio-info">
@@ -62,7 +62,7 @@ export default component$(() => {
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
+            <div class="col-lg-3 col-md-4 portfolio-item filter-plugin">
               <div class="portfolio-wrap">
                 <img src="/img/portfolio/rate-the-site-experience.png" class="img-fluid" alt="" />
                 <div class="portfolio-info">
@@ -75,7 +75,7 @@ export default component$(() => {
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
+            <div class="col-lg-3 col-md-4 portfolio-item filter-plugin">
               <div class="portfolio-wrap">
                 <img src="/img/portfolio/auto-update-image-attributes-from-filename.jpg" class="img-fluid" alt="" />
                 <div class="portfolio-info">
@@ -87,7 +87,7 @@ export default component$(() => {
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
+            <div class="col-lg-3 col-md-4 portfolio-item filter-plugin">
               <div class="portfolio-wrap">
                 <img src="/img/portfolio/manageremove-version-number-from-css-js.png" class="img-fluid" alt="" />
                 <div class="portfolio-info">
@@ -100,7 +100,7 @@ export default component$(() => {
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
+            <div class="col-lg-3 col-md-4 portfolio-item filter-plugin">
               <div class="portfolio-wrap">
                 <img src="/img/portfolio/bulk-post-status-update.jpg" class="img-fluid" alt="" />
                 <div class="portfolio-info">
@@ -112,7 +112,7 @@ export default component$(() => {
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
+            <div class="col-lg-3 col-md-4 portfolio-item filter-plugin">
               <div class="portfolio-wrap">
                 <img src="/img/portfolio/disable-wordpress-updates.jpg" class="img-fluid" alt="" />
                 <div class="portfolio-info">
@@ -124,7 +124,7 @@ export default component$(() => {
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
+            <div class="col-lg-3 col-md-4 portfolio-item filter-plugin">
               <div class="portfolio-wrap">
                 <img src="/img/portfolio/woo-cart-popup.jpg" class="img-fluid" alt="" />
                 <div class="portfolio-info">
@@ -136,7 +136,7 @@ export default component$(() => {
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
+            <div class="col-lg-3 col-md-4 portfolio-item filter-plugin">
               <div class="portfolio-wrap">
                 <img src="/img/portfolio/common-tools-for-site.jpg" class="img-fluid" alt="" />
                 <div class="portfolio-info">
@@ -148,7 +148,7 @@ export default component$(() => {
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
+            <div class="col-lg-3 col-md-4 portfolio-item filter-plugin">
               <div class="portfolio-wrap">
                 <img src="/img/portfolio/WP-login-register-flow.jpg" class="img-fluid" alt="" />
                 <div class="portfolio-info">
@@ -160,7 +160,7 @@ export default component$(() => {
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
+            <div class="col-lg-3 col-md-4 portfolio-item filter-plugin">
               <div class="portfolio-wrap">
                 <img src="/img/portfolio/WP-Users-Login-History.jpg" class="img-fluid" alt="" />
                 <div class="portfolio-info">
@@ -173,7 +173,7 @@ export default component$(() => {
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="col-lg-3 col-md-4 portfolio-item filter-web">
               <div class="portfolio-wrap">
                 <img src="/img/portfolio/wheels-ca.jpg" class="img-fluid" alt="" />
                 <div class="portfolio-info">
@@ -185,7 +185,7 @@ export default component$(() => {
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="col-lg-3 col-md-4 portfolio-item filter-web">
               <div class="portfolio-wrap">
                 <img src="/img/portfolio/my-smile-makeover.jpg" class="img-fluid" alt="" />
                 <div class="portfolio-info">
@@ -198,7 +198,7 @@ export default component$(() => {
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="col-lg-3 col-md-4 portfolio-item filter-web">
               <div class="portfolio-wrap">
                 <img src="/img/portfolio/carfind.jpg" class="img-fluid" alt="" />
                 <div class="portfolio-info">

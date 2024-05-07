@@ -12,7 +12,7 @@ export default component$(() => {
             <p>My Works</p>
           </div>
 
-          <div class="row">
+          {/* <div class="row">
             <div class="col-lg-12 d-flex justify-content-center">
               <ul id="portfolio-flters">
                 <li data-filter="*" class="filter-active">All</li>
@@ -20,9 +20,85 @@ export default component$(() => {
                 <li data-filter=".filter-web">Website</li>
               </ul>
             </div>
-          </div>
+          </div> */}
 
           <div class="row portfolio-container">
+
+            
+          <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
+              <div class="portfolio-wrap">
+                <img src="/img/portfolio/categories-status.png" class="img-fluid" alt="" />
+                <div class="portfolio-info">
+                  <h4>Categories Status</h4>
+                  <p>Plugin</p>
+                  <div class="portfolio-links">
+                    <a href="https://wordpress.org/plugins/categories-status/" target="_blank" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
+              <div class="portfolio-wrap">
+                <img src="/img/portfolio/cf7-visited-pages-url-tracking.jpg" class="img-fluid" alt="" />
+                <div class="portfolio-info">
+                  <h4>CF7 Visited Pages URL Tracking</h4>
+                  <p>Plugin</p>
+                  <div class="portfolio-links">
+                    <a href="https://wordpress.org/plugins/cf7-visited-pages-url-tracking/" target="_blank" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
+              <div class="portfolio-wrap">
+                <img src="/img/portfolio/comment-form-validation-and-customization.jpg" class="img-fluid" alt="" />
+                <div class="portfolio-info">
+                  <h4>Comment form validation and Customization</h4>
+                  <p>Plugin</p>
+                  <div class="portfolio-links">
+                    <a href="https://wordpress.org/plugins/comment-form-validation-and-customization/" target="_blank" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
+              <div class="portfolio-wrap">
+                <img src="/img/portfolio/rate-the-site-experience.png" class="img-fluid" alt="" />
+                <div class="portfolio-info">
+                  <h4>Rate the Site experience</h4>
+                  <p>Plugin</p>
+                  <div class="portfolio-links">
+                    <a href="https://wordpress.org/plugins/rate-the-site-experience/" target="_blank" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
+              <div class="portfolio-wrap">
+                <img src="/img/portfolio/auto-update-image-attributes-from-filename.jpg" class="img-fluid" alt="" />
+                <div class="portfolio-info">
+                  <h4>Auto Update Image Attributes From Filename</h4>
+                  <p>Plugin</p>
+                  <div class="portfolio-links">
+                    <a href="https://wordpress.org/plugins/auto-update-image-attributes-from-filename/" target="_blank" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
+              <div class="portfolio-wrap">
+                <img src="/img/portfolio/manageremove-version-number-from-css-js.png" class="img-fluid" alt="" />
+                <div class="portfolio-info">
+                  <h4>Manage/Remove version number from CSS & JS</h4>
+                  <p>Plugin</p>
+                  <div class="portfolio-links">
+                    <a href="https://wordpress.org/plugins/manageremove-version-number-from-css-js/" target="_blank" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-plugin">
               <div class="portfolio-wrap">
